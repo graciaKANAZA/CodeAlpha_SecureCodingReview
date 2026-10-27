@@ -1,0 +1,4 @@
+.venv/
+vulpy/
+__pycache__/
+*.sqlite
